@@ -53,4 +53,4 @@ OR
 ## Contributors
 - <a href="https://github.com/xitish">Pukar</a> <a href="https://pukarg.com.np"> [Website] </a>
 - Rajesh Pandey
-- Dependra Ramtel
+- Dependra Hello
